@@ -1,0 +1,49 @@
+h1 {
+    font-size: 75px;
+    font-weight: bolder;
+    border-bottom: double;
+}
+
+h2 {
+    font-size: 45px;
+    font-style: italic;
+}
+
+h5 {
+    font-size: 15px;
+}
+
+p {
+    font-size: 20px;
+}
+
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    border-style: groove;
+    background-color: lightblue;
+}
+
+#devmountainBanner {
+    height: 100px;
+    width: 450px;
+}
+
+#scott {
+    height: 150px;
+    width: 150px
+}
+
+
+#signup {
+    text-align: center;
+}
+
+#sidebar {
+    float: right;
+    padding-left: 15px;
+    width: 150px;
+    border-style:ridge;
+    padding: 10px;
+
+}
